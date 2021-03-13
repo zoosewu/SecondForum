@@ -1,7 +1,7 @@
 # SecondForum
 A second forum for who lost their home.
 
-##計畫
+## 計畫
 
 目前前端打算用React
 
